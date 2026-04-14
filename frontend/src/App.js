@@ -3,7 +3,7 @@ import QRCode from "qrcode";
 import jsQR from "jsqr";
 import "./App.css";
 
-const API = "http://localhost:4000/api";
+const API = "https://qr-now-23hu.onrender.com";
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 function downloadBlob(blob, filename) {
